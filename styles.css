@@ -4,3 +4,13 @@ body {
   font-family: 'Roboto', sans-serif;
 }
 
+* {
+  /* Override default right margin for sidebar*/
+  --pagedjs-margin-right: 0.2in;
+  --pagedjs-margin-left: 0.2in;
+}
+
+/* Avoid the breaking within a section */
+.blocks {
+  break-inside: avoid;
+}
