@@ -80,7 +80,7 @@ Raleigh, NC
 2012
 
 
-Experience {data-icon=laptop}
+Professional Experience {data-icon=suitcase}
 --------------------------------------------------------------------------------
 
 ### Analytics & Innovation Manager
@@ -91,20 +91,9 @@ Greensboro, NC
 
 2017 - Present
 
-- Developed and launched Lean Government Certificate Program
-- Developed Enterprise Strategic Framework leveraging an adapted Objectives and Key-Results model
-- Integrated Data System (IDS) development and deployment
-- Customized Animal Services data collection and linked reporting
-- Increasing payment compliance using behavioral economics in Emergency Services
-- County-wide evaluation of economic impacts of emerging and disruptive technologies
-- Improving employee well-being using behavioral economics
-- Established the first global Business Intelligence framework
-- Established a new open data program with policy and governance infrastructure adopted by the Board of Commissioners
-- Established innovation workshops for city and county employees to receive training and exposure to various continuous improvement methodologies
-- Established recurring funding for the summer fellowship program with Duke University
-- Established monthly office hours with Behavioral Researcher at The Center for Advanced Hindsight
-- Established and manage MetroLab partnership with the University of North Carolina at Greensboro
-- Established and manage partnerships with seven different universities
+I work on an array of projects across our entire organization and county touching on strategic planning, data operationalization, internal/external innovation projects, and community/university partnerships. I help people do their jobs better with better information and I act as an internal consultant on projects related to data-informed decision making and innovation to optimize workflows, improve our ability to answer questions, and translate between the business and information technology realms.
+
+I also serve as the Open Data Program Manager for Guilford County, working on several initiatives to make county data useful, usable, and used. As an advocate for outcomes orientation and data-informed decision making, I have worked to more adequately leverage existing county data assets and speak in meaningful ways about the importance of community context. I have helped cultivate community support for data sharing and a greater focus on equity, economic inclusion, and shared prosperity.
 
 
 ### Senior Budget & Management Analyst
@@ -113,34 +102,91 @@ Guilford County Government
 
 Greensboro, NC
 
-2015 - 2017
+2016 - 2017
 
-- Budget development and management with department directors, County administration, and governing board
-- County-wide fleet maintenance evaluation and fleet facility feasibility analysis
-- Increasing on-time property tax payments and reducing negative citizen interactions using behavioral economics
-- Audited and updated County fixed assets
-- Employee self-insured health plan preferences evaluation and cost comparisons
-- Transportation vendor auditing and contract compliance review
-- Redesigned County agenda tracking and budget control process
-- Appointed team leader for county-wide Innovation Academy
-- Workers’ Compensation program evaluation with adopted recommendations for new process and success metrics
+In addition to the duties listed under Budget & Management Analyst, I was also responsible for the initial development and implementation of Guilford County's open data policy, program, and governance. Along with my open data work, I also worked to centralize and operationalize several disparate county data sources. This work allowed us to develop more timely performance indicators and communicate with the Board of Commissioners in a data-driven way.
+
+As a Senior Budget & Management Analyst, I also established and advanced our internal innovation capacity development framework. In conjunction with this work, I formalized relationships with Duke and UNCG to carry out several projects that forced valuable interactions between students, faculty, and practitioners. I also acted as a central point of contact for several community partners including multiple local foundations and non-profits.
 
 
-### Visiting Scientist
+### Budget & Management Analyst
 
-University of Alabama at Birmingham
+Guilford County Government
 
-AL, USA
+Greensboro, NC
 
-2016 - 2018
+2015 - 2016
 
-- Investigated the role of mitochondria in development of cancer.
-- Investigated the evolution of genome architecture and its role in important evolutionary events.
-- Detected thrombotic thrombocytopenic purpura related mutations in mutiple patients' blood genome.
+Assist departments, county management, and the Board of Commissioners in the preparation and management of a balanced budget. Assist in the coordination and development of the County’s annual budget planning and development process. Review and evaluate program performance, and monitor expenditures to ensure adherence to county policies and procedures. Assist departments with performance measures, respond to information requests from Board members, county management, departments, other agencies, the media, and the public.
+
+Assigned departments and focus areas include Law Enforcement, Social Services, Transportation, Human Resources, Fleet Management, Cooperative Extension, Data Analytics, Vehicle Replacement Planning, and the Internal Service Fund which includes Risk Management and the County's self-funded health insurance program.
+
+In my first year with Guilford County, I was able to complete a detailed analysis of the costs associated with county vehicle maintenance, a full audit of our fixed assets data, and provide recommendations to the County Manager regarding the construction of a vehicle maintenance facility. I was also able to craft a new set of performance measures for our Workers' Compensation program and present a detailed report on program performance that is now used as a template by our vendor.
+
+
+### Human Resources Analyst
+
+The City of Salisbury
+
+Salisbury, NC
+
+2013 - 2015
+
+As a Human Resources Analyst for The City of Salisbury, I managed several projects while also managing several work streams. I was the Project Manager of a cross-functional team for the implementation of the City's new personnel and payroll software, Project Manager for the City's building security conversion project, and leader of another cross-functional team tasked with implementing the City Council's "Good to Great" customer service initiative. 
+
+I was the City's Benefits Administrator coordinating the City's self-insurance program and overall wellness program. I established and also lead the City's Health and Wellness Committee to actively promote wellness initiatives. In conjunction with my other duties, I also was the direct liaison and adviser for the Public Services Director, Utilities Director, Fire Chief, and Planning Director. In addition to these responsibilities, I also assisted in the management of the City's strategic plan, the planning of the yearly City Council retreat, and the coordination of the City's strategic plan goal champions.
+
+
+### Assistant Trainmaster
+
+Norfolk Southern Railroad
+
+Portsmouth, OH
+
+2011 - 2013
+
+I directly assisted in the supervision of over 200 employees across two divisions throughout West Virginia, Ohio, Kentucky, and Virginia. I was also in charge of safety and rule compliance monitoring activities including announced and unannounced checks on employees for compliance with company and Federal Railroad Administration (FRA) rules and laws. In addition to these responsibilities I was also in charge of the safe movement of all trains entering, exiting, or working within the rail yard at any given time during my yardmaster shifts five days weekly. In overseeing yard operations, I was tasked with the safe movement of employees as well as millions of dollars in equipment each day.
   
 
-Professional Experience {data-icon=suitcase}
+Volunteer Service {data-icon=hands-helping data-concise=true}
 --------------------------------------------------------------------------------
+
+### Community Facilitator
+
+Ready for School Ready for Life
+
+Greensboro, NC
+
+2017 - 2018
+
+Early Childhood Integrated Data System
+
+### Community Facilitator
+
+North Carolina Department of Health & Human Services
+
+Raleigh, NC
+
+2017 - 2018
+
+Empowering Families Outcomes Oriented Contracting
+
+### Steering Comittee Member
+
+Forward Guilford
+
+Greensboro, NC
+
+2016 - 2019
+
+Community Indicators Project
+
+United Way, Greensboro (NC) — Steering Committee Member, Integrated Service Delivery
+Innovate Greensboro, Greensboro (NC) — Council Member
+United Way, Salisbury (NC) — Allocations Panel
+International City/County Management Association — Member, Advisory Board on Graduate Education
+International City/County Management Association — Member, Digital Strategies Advisory Board
+The University of North Carolina at Greensboro, Greensboro (NC) — Steering Committee Member, Advancing Access to Research Data
 
 ### Data Scientist, intern
 
