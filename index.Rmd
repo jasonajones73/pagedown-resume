@@ -43,9 +43,7 @@ Skills {#skills}
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
 
-This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
-
-Last updated on `r Sys.Date()`.
+Resume last updated on `r Sys.Date()`.
 
 
 
@@ -125,22 +123,20 @@ In my first year with Guilford County, I was able to complete a detailed analysi
 
 ::: aside
 
-### Data Science Highlights:
-
-#### Data Architecture
+### Data Architecture:
 - Implementing or improving data collection systems and strategies.
 - Creating and/or adopting universal standards for data formatting, documentation, and sharing.
 - Development of an open data framework for sharing and access.
 - Creating and managing an Integrated Data System with administrative record entity resolution.
 
-#### Data Analysis
+### Data Analysis:
 - Sentiment analysis using unstructured text data.
 - Complex spatial data analysis using R and ArcGIS.
 - Conducting end-to-end program evaluations.
 - Sharing findings in various formats including traditional word processing, Jupyter Notebooks, and static websites utilizing markdown.
 - Training program development for data analysis.
 
-#### Data Visualization
+### Data Visualization:
 - High-quality static data visualization primarily utilizing ggplot2.
 - Interactive data visualization using various libraries such as Plotly, Highcharter, and Leaflet.
 - Business intelligence dashboard development in both Tableau and Power BI.
