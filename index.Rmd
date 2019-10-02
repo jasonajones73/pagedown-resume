@@ -123,6 +123,31 @@ Assigned departments and focus areas include Law Enforcement, Social Services, T
 
 In my first year with Guilford County, I was able to complete a detailed analysis of the costs associated with county vehicle maintenance, a full audit of our fixed assets data, and provide recommendations to the County Manager regarding the construction of a vehicle maintenance facility. I was also able to craft a new set of performance measures for our Workers' Compensation program and present a detailed report on program performance that is now used as a template by our vendor.
 
+::: aside
+
+### Data Science Highlights:
+
+#### Data Architecture
+- Implementing or improving data collection systems and strategies.
+- Creating and/or adopting universal standards for data formatting, documentation, and sharing.
+- Development of an open data framework for sharing and access.
+- Creating and managing an Integrated Data System with administrative record entity resolution.
+
+#### Data Analysis
+- Sentiment analysis using unstructured text data.
+- Complex spatial data analysis using R and ArcGIS.
+- Conducting end-to-end program evaluations.
+- Sharing findings in various formats including traditional word processing, Jupyter Notebooks, and static websites utilizing markdown.
+- Training program development for data analysis.
+
+#### Data Visualization
+- High-quality static data visualization primarily utilizing ggplot2.
+- Interactive data visualization using various libraries such as Plotly, Highcharter, and Leaflet.
+- Business intelligence dashboard development in both Tableau and Power BI.
+- Containerized Shiny web applications for flexible sharing and deployment.
+- Static website creation and deployment using GitHub and Netlify.
+
+:::
 
 ### Human Resources Analyst
 
@@ -148,7 +173,7 @@ Portsmouth, OH
 I directly assisted in the supervision of over 200 employees across two divisions throughout West Virginia, Ohio, Kentucky, and Virginia. I was also in charge of safety and rule compliance monitoring activities including announced and unannounced checks on employees for compliance with company and Federal Railroad Administration (FRA) rules and laws. In addition to these responsibilities I was also in charge of the safe movement of all trains entering, exiting, or working within the rail yard at any given time during my yardmaster shifts five days weekly. In overseeing yard operations, I was tasked with the safe movement of employees as well as millions of dollars in equipment each day.
   
 
-Volunteer Service {data-icon=hands-helping data-concise=true}
+Volunteer Service {data-icon=hands-helping}
 --------------------------------------------------------------------------------
 
 ### Community Facilitator
@@ -161,9 +186,26 @@ Greensboro, NC
 
 Early Childhood Integrated Data System
 
+::: aside
+
+### Professional Development:
+
+- Designing for Social Systems, Stanford University d.School.
+- Leading for Results - LGFCU Fellows Program, UNC-CH School of Government.
+- Emerging Leaders Development Program, ICMA.
+- Adaptive Leadership, +Acumen.
+- Presenting Data and Information, Dr. Edward Tufte.
+- Business and Human Resources Executive Development, UNC-CH Kenan-Flagler Business School.
+- Innovation by Design, Duke University.
+- Local Government Performance Analytics, Johns Hopkins University (GovEx).
+- Local Government Budgeting, UNC-CH School of Government.
+- Public Employment Law, UNC-CH School of Government.
+
+:::
+
 ### Community Facilitator
 
-North Carolina Department of Health & Human Services
+North Carolina DHHS
 
 Raleigh, NC
 
@@ -171,7 +213,7 @@ Raleigh, NC
 
 Empowering Families Outcomes Oriented Contracting
 
-### Steering Comittee Member
+### Steering Committee Member
 
 Forward Guilford
 
@@ -181,82 +223,158 @@ Greensboro, NC
 
 Community Indicators Project
 
-United Way, Greensboro (NC) — Steering Committee Member, Integrated Service Delivery
-Innovate Greensboro, Greensboro (NC) — Council Member
-United Way, Salisbury (NC) — Allocations Panel
-International City/County Management Association — Member, Advisory Board on Graduate Education
-International City/County Management Association — Member, Digital Strategies Advisory Board
-The University of North Carolina at Greensboro, Greensboro (NC) — Steering Committee Member, Advancing Access to Research Data
+### Steering Committee Member
 
-### Data Scientist, intern
+United Way
 
-SupStat Inc.
+Greensboro, NC
 
-Beijing, China
+2018 - 2019
 
-2014
+Integrated Service Delivery
 
-::: concise
-- Taught R language to beginners. 
-- Wrote Shiny app demos.
-- Converted statistical tutorials from SPSS to R language.
-:::
+### Council Member
 
-### Bioinformatician
+Greensboro Chamber of Commerce
 
-My Health Gene Technology Co., Ltd.
+Greensboro, NC
 
-Beijing, China
+2017 - 2018
 
-2015 - 2016
+Innovate Greensboro
 
-::: concise
-- Analyzed whole-exome sequencing data. 
-- Wrote analysis pipelines of ChIP-seq, single cell DNA-seq and single cell RNA-seq.
-- Studied tumor metastasis and wrote research reports. 
-- Also did case studies to identify the genetic defect causing rare disease.
-:::
+### Panel Member
+
+United Way
+
+Salisbury, NC
+
+2014 - 2015
+
+Allocations Panel
+
+### Board Member
+
+ICMA
+
+Washington, DC
+
+2017 - 2019
+
+Advisory Board on Graduate Education
+
+### Board Member
+
+ICMA
+
+Washington, DC
+
+2017 - 2019
+
+Digital Strategies Advisory Board
+
+### Steering Committee Member
+
+UNCG
+
+Greensboro, NC
+
+2018 - 2019
+
+Advancing Access to Research Data
 
 
-Teaching Experience {data-icon=chalkboard-teacher}
+Invited Talks {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
 
-### Introduction to R Language for Beginners.
+### Open Sourcing Innovation
 
-Instructor of R and Data Mining Training Courses at SupStat Inc.
+Transforming Local Government Conference
 
-Beijing, China
+Tacoma, WA
 
-2014
+2018
 
-### Computational Biology and Bioinformatics.
+### The Future of Open Data
 
-Teaching assistant of GBS CB2-201 courses at UAB
+UNCG Housing & Health Symposium
 
-AL, USA
+Greensboro, NC
 
-2016 - 2017
+2018
 
+### Simplifying the "I" Word
 
-Selected Publications and Posters {data-icon=file}
---------------------------------------------------------------------------------
+NCLGBA Summer Conference
 
-### Genetic and epigenetic signals are found predictive to the distribution of intra-individual divergence of alternative splicing.
+Atlantic Beach, NC
 
-Poster for 2013 International Conference of Genomics
+2018
 
-Qingdao, China
+### Open Data: What We've Got, What You Need
 
-2014
+NC Open Pass Civic Camp
 
-**Yu L**, Chen B, Zhang Z.
+Raleigh, NC
 
-### ESCRT-0 complex modulates Rbf mutant cell survival by regulating Rhomboid endosomal trafficking and EGFR signaling.
+2018
 
-J Cell Sci. 2016 May 15;129(10):2075-84.
+### Using Data to Understand People & Place
 
-N/A
+MetroLab Annual Summit
 
-2016 
+Newark, NJ
 
-Sheng Z, **Yu L**, Zhang T, Pei X, Li X, Zhang Z and Du W. 
+2018
+
+::: aside
+
+### Personal Values:
+
+- **Passionate Curiosity:** Actively seek out thought leaders and strategic influencers, think critically to make connections that others miss, seek out alternative perspectives, and gather qualitative data to develop practical empathy.
+- **Innovation:** Constructively challenge prevailing assumptions, minimize complexity to increase flexibility, and help stakeholders overcome resistance to positive change.
+- **Resiliency:** Anticipate, identify, and define problems, seek root causes to avoid symptomatic approaches, identify potential consequences and future-test solutions, and document work in an easy to understand and transferable way.
+- **Collaboration:** Communicate in an effective and easy to understand way, build trust and consensus, recognize the importance of diverse perspectives, and actively promote diverse working groups.
+- **Optimism:** I strongly believe that there is incredible power in positive leadership.
+
+:::
+
+### Open Sourcing Innovation
+
+Alliance for Innovation CIO Consortium
+
+Greensboro, NC
+
+2018
+
+### Analysis and Evaluation
+
+UNC Chapel Hill School of Government
+
+Chapel Hill, NC
+
+2019
+
+### Geospatial Visualization in R
+
+Elon University Interactive Media Masters Program
+
+Elon, NC
+
+2019
+
+### Data and Infrastructure
+
+UNCG Scholarly Communications Symposium
+
+Greensboro, NC
+
+2019
+
+### Traeger Award Keynote
+
+ELGL Annual Conference
+
+Durham, NC
+
+2019

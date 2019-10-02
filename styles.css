@@ -14,3 +14,7 @@ body {
 .blocks {
   break-inside: avoid;
 }
+
+li {
+    list-style-type: inherit;
+}
